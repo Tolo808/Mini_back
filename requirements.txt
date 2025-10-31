@@ -4,4 +4,5 @@ pymongo==4.4.0
 python-dotenv==1.0.0
 geopy==2.4.0
 pyjwt==2.8.0
-werkzeug==2.2.3
+werkzeug>=3.0.0
+
