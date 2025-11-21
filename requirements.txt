@@ -6,3 +6,4 @@ geopy==2.4.0
 pyjwt==2.8.0
 werkzeug>=3.0.0
 chapa
+requests
